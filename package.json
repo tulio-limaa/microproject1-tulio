@@ -1,0 +1,25 @@
+{
+    "name": "microproject1-tulio",
+    "version": "1.0.0",
+    "description": "Express app for movie data",
+    "main": "app.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "nodemon app.js",
+        "dev": "nodemon"
+    },
+    "keywords": [
+        "Node.JS",
+        "Express.JS",
+        "HTML",
+        "CSS"
+      ],
+      "author": "Anmar",
+      "license": "ISC",
+      "dependencies": {
+        "express": "^4.21.2"
+    },
+    "devDependencies": {
+        "nodemon": "^3.0.3"
+    }
+}
